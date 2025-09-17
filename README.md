@@ -7,8 +7,8 @@ gracias =^-^=
 👉 [Ver proyecto aquí](https://michellnicole.github.io/challenge-amigo-secreto)
 
 ## Integrantes
-- Cheesi  
-- Melissa  
+- Che3si  
+- M3lissa  
 - Carlitos  
 - Moore  
 - Jeison  
